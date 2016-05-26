@@ -13,6 +13,10 @@
   width: 180px;
 }
 
+.impowerBox .qrcode {
+  width: 180px;
+}
+
 .status_icon {
   display: none;
 }
