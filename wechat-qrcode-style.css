@@ -1,24 +1,9 @@
 .impowerBox .qrcode {
-  width: 200px;
-}
-
-.impowerBox .title {
-  display: none;
+  width: 180px;
 }
 
 .impowerBox .info {
   width: 180px;
-}
-.impowerBox .wrp_code {
-  width: 180px;
-}
-
-.impowerBox .qrcode {
-  width: 180px;
-}
-
-.status_icon {
-  display: none;
 }
 
 .impowerBox .status {
